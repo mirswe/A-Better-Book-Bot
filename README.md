@@ -4,7 +4,7 @@ A Better Book Bot is a bot that takes in certain .txt files and uses a model fro
 
 Uses:
 Pytorch
-Numpy - 1.26.4
+Numpy v 1.26.4
 Huggingface
 
 Next Features to implement: 
