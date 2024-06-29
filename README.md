@@ -3,6 +3,7 @@
 A Better Book Bot is a bot that takes in certain .txt files and uses a model from huggingface created by a group named 'AI at Meta'.
 
 Uses:
+
 Pytorch
 Numpy v 1.26.4
 Huggingface
