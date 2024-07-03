@@ -12,4 +12,4 @@ Next Features to implement:
     - text selector ; choose what texts from the texts/ to choose from
     - clean up output ; make the printed output less janky
     - slow down output ; provide sleep() functions to slow down the output
-    - add exceptions ; especially for max length text provided and others like network error
+    - add exceptions ; for max length text provided and others like network error
